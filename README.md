@@ -39,7 +39,7 @@ Me interesa el desarrollo frontend, la experiencia de usuario y la gestión de p
 ## 📫 Contacto
 
 - ✉ Email: abigailpicone.ispc@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/abigail-yazmin-picone-ambroisoni](http://www.linkedin.com/in/abigail-yazmin-picone-ambrosioni-800859385)  
+- 🔗 LinkedIn: [linkedin.com/in/abigail-yazmin-picone-ambrosioni](http://www.linkedin.com/in/abigail-yazmin-picone-ambrosioni-800859385)  
 - 🌐 GitHub: [github.com/abipicone](https://github.com/abipicone)
 
 ---
